@@ -1,6 +1,7 @@
 # bookstore-app
 vue,vuexなどの練習用で作成。楽天のAPIも使用。
 gitと練習中です。
+issue/b
 ## Project setup
 ```
 npm install
