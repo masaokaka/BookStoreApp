@@ -3,6 +3,7 @@ vue,vuexなどの練習用で作成。楽天のAPIも使用。
 gitと練習中です。
 issue/b
 issue/c
+issue/b再度作成。
 ## Project setup
 ```
 npm install
